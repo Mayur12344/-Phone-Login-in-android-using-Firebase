@@ -13,7 +13,7 @@ This is an Android app that demonstrates how to implement phone number authentic
 
 - Android Studio
 - Firebase Authentication
-- Kotlin/Java (Choose your language)
+- Java
 - Gradle for dependency management
 
 ## Prerequisites
@@ -28,7 +28,6 @@ Before you begin, ensure you have met the following requirements:
 - ## Add dependencies in your project level
 
 - dependencies {
-    implementation 'com.google.firebase:firebase-auth:21.0.6'
-    implementation 'com.google.android.gms:play-services-auth:20.1.0'
-    // Add other dependencies as needed
-}
+-  implementation 'com.google.firebase:firebase-auth:21.0.6'
+-   implementation 'com.google.android.gms:play-services-auth:20.1.0'
+-   }
